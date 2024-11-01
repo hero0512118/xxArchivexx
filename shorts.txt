@@ -1,0 +1,15 @@
+ /* format
+ title = 
+	link= 
+	date= 2024.10.25 1500
+<---->
+*/
+//shorts
+ title = 
+	link= https://www.youtube.com/watch?v=OKhuxzubupU
+	date= 2024.10.18 1500
+<---->
+ title = ✞這是爽夢✞ 瘋狂在櫃台上跳來跳去！我控制不住自己啊！？ ⌇Square Live 白白虹 
+	link= https://www.youtube.com/watch?v=8RKZyUlzpXM
+	date= 2024.10.20 1800
+<---->

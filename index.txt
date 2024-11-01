@@ -1,0 +1,29 @@
+/*
+index
+	debut && originOfO5
+	archive categories
+		liveMedia
+		liveBGM
+*/
+
+//liveMedia
+//liveBGM
+
+name = 白白虹, xxhacucoxx
+nick = 百白虹, 百比虹, THE☆天才, はくなまたた, etc.
+/*https://www.youtube.com/watch?v=eEqdt2GUSYg 1:08:22
+はくじゃん　？）　はくさま　で読んでいい。　//はくさま　気持ちいい
+はくじゃん　/　はくさま　/　はくたん　何でもOKです
+*/
+海豹 = 加百列(天使豹豹教的大天使豹豹加百列)
+age = 14
+birthday = 04.03
+body number = 178cm(173+5呆毛) // 143+5
+languages = 中文、日本語(good), 英語、台灣語(bed)
+JavaScript, HTML5, CSS, SCSS, jQuery, Vue 2&3
+favorite = 蘿莉(酪梨)
+emoji = :lab_coat:
+fanName = TBD (虹金寶？)
+hashTag = #白虹慟哭
+liveTag = #hacucoala
+fanTag = #hacucoarrrt

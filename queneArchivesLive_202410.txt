@@ -1,0 +1,269 @@
+ /* format
+title = 
+	link= 
+	date= 2024.10.
+	content={
+		
+	}
+<---->
+<--v--> stands over/complete
+<--e--> stands editing/some details yet orgranized
+<--d--> stands live is unarchived
+└
+optional param
+	creditTo= //suffix param for content/hightLight
+		 creditTo= @xxSguKunxx
+		 creditTo= @sakuranoshi2uku
+	highLight
+ */
+ title = ✞ 尼爾 : 胃痛生命 ꙳ ✞ 二周目 ̖́- kaine 回 。胃不會比較舒服, 除非拆掉 ... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=nzVbngO9n8U
+	date= 2024.10.02 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 白噪音 ꙳ ✞ 久違聊聊 ̖́- 近日身體多災多難 , 大概像颱風天的高雄 .. 🌈 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=PB5_5U836Ok
+	date= 2024.10.04 1500
+	content={
+		
+	}
+<---->
+ title =  ✞ #跑步接力歌回 ꙳ ✞ 運動力 0 ̖́- 誰會邊跑步邊唱歌邊直播阿 ? 我們 .... 🌧 *. ┊ Square Live 白白虹 
+	link= https://www.youtube.com/watch?v=rxs7vElIeS8
+	date= 2024.10.05 1455
+	content={
+		
+	}
+<---->
+ title = ✞ 咒 ꙳ ✞ 月曜日恐遊最適合 ̖́- 才下午而已... 怕的是小狗... 白白虹 : 汪汪 ! 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=yIvvFpqt-3c
+	date= 2024.10.07 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 模特兒出道 3 nicola ꙳ ✞ 80萬追蹤邁進中 ̖́- 究竟能不能接到連續劇工作呢 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=7f_82--d0VQ
+	date= 2024.10.08 1500
+	content={
+		
+	}
+<---->
+ title = emo 中 ... 醒著的陪一下吧 ? 🌈☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=BEU5ycRj3Oc
+	date= 2024.10.09 0335
+	content={
+		
+	}
+<---->
+ title = ✞ 尼爾 : 胃痛生命 ꙳ ✞ B Ending # 02 ̖́- kaine 回 。扶 扶 他 咳咳咳咳 ... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=YlOUAvWhz8E
+	date= 2024.10.10 1500
+	content={
+		
+	}
+<---->
+ title =  ✞ 歌うのだ ꙳ ✞ 唱想唱的 ̖́- 從開嗓開始 !! 我剛起床 !! #我愛羅YT 🥼 *. ┊ Square Live 白白虹 
+	link= https://www.youtube.com/watch?v=lb-A859o3oI
+	date= 2024.10.12 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 雑談だよ ꙳ ✞ 今天開始我是學姐 ̖́- 請叫我白白虹學姐 , 不准站得比我高 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=1A1XcMDCboQ
+	date= 2024.10.14 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 模特兒出道 3 nicola ꙳ ✞ 可以來個正常的男人嗎 ̖́- 絕讚人氣飆升中 ↑↑↑ 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=G11d2Gg46iA
+	date= 2024.10.15 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 歌練習なのだ ꙳ ✞ 可愛就完事 ̖́- 啦啦啦啦 ready for my 燒 ↑ 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=BuuHLc3VT5s
+	date= 2024.10.16 1500
+	content={
+		
+	}
+<---->
+ title = 偷偷的 ... 雑談だお 🌈☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=sVZpJ_CcJgI
+	date= 2024.10.17 0030
+	content={
+		
+	}
+<---->
+ title.old = ✞ 尼爾 : 胃痛生命 ꙳ ✞  B  Ending # 03   ̖́-   kaine 回 。沒有 clear 不關台  🌧 *. ┊ Square Live 白白虹
+ title = ✞ fit boxing feat. 初音ミク ꙳ ✞ 運 動 囉 ̖́- 要很健康 沒有嬌喘可以外放 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=FB7StriPUmY
+	date= 2024.10.17 1500
+	content={
+		
+	}
+<---->
+ title = 再びの EMO TIME .... 醒著嗎 ? 🌈☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=Fk9A5YpPFf0
+	date= 2024.10.18 0245
+	content={
+		
+	}
+<---->
+ title.old = ✞  歌と雑談なのだ ꙳  ✞  可愛就完事   ̖́-   .... 這週終於熬完了。要封 mic 嗎  🥼 *.  ┊ Square Live 白白虹
+ title = ✞ 歌と雑談だお ꙳ ✞ 周末啦 ̖́- 這周好累累 ... emo 獸滾 !!! 🌧 *. ┊ Square Live 白白虹Square Live 白白虹
+	link= https://www.youtube.com/watch?v=2K4Pus032Q8
+	date= 2024.10.18 1500
+	content={
+		
+	}
+<---->
+ title.old = 激 ♡ 突 ♡ 戰 ♡ 士 ♡ 睡夠了吧 ...
+ title = 激 ♡ 突 ♡ 戰 ♡ 士 ♡ 睡夠了吧 ... 哥 ~ 去幫我買早餐啦 🌈☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=eEqdt2GUSYg
+	date= 2024.10.20 0530
+	content={
+		Song List‧₊˚✩彡: 1.証明,2.恋する,3.僕に彼女ができたんだ,4. ​​君と夏フェス,5.浪費,隱藏曲 北京歡迎你,6.ハイド・アンド・シーク
+(感謝白白虹學姐與優卡提供歌名
+	} creditTo= @sakuranoshi2uku
+	content={
+		3:59 start,4:53 早餐是泡麵,6:20 調查o5是還沒睡還是睡醒了,8:50 @gray寫的瑟拉蒂絲 wiki,15:55 嘗試自己寫wiki,18:50 早餐話題,20:00 總裁/哥布林 話題,23:37 (等開台)抖到很無聊,25:37 back to 總裁,28:07 扭曲的愛,29:57 哎呀 你們不懂我(跟了10個月還是不了解白白),31:24 thread看到的PUA話題,32:55 可以出去野???,33:19 所以沒有跟奇巴那結婚?,34:02 地下室魅力,34:30 冰箱不夠隱密,34:36 dior 病嬌發言,35:15 東京好料的口袋名單- 一蘭一蘭...一蘭,36:09 偏食&&不敢吃,37:06 但會吃燒鳥(考雞),37:24 學弟沒大沒小,38:21 白白的地位論,38:43 瓏拔對學弟提醒要乖一點,39:36 男廁女廁分開上,40:37 忌妒有人會忌妒,41:25 麥當勞早餐推薦,41:40 (白白不愛你們嗎)會感到壓力很大嗎,43:16 kimoi~,43:37 繩子,44:25 東京16度好冷,45:11 不喜歡夏天 && 哼歌(夏天到~),45:28 日本打工度假簽證 && 白白建議,46:19 就掰...好熟練,47:24 好熱好熱,49:07 最近好容易硬模,49:33 睡眠不足嗎?,50:20 沒特別E甚麼,51:02 連休息都不舒服所以才開台,51:24 NO沙威瑪,54:13 白日E山盡,54:51 1. 証明,59:25 激推"証明"這首,1:00:41 "証明"的歌詞解析,1:01:52 沒有人寫霸道總裁主題曲,1:02:24 喉嚨很卡 是不是沒有睡覺的關係(是~這白白),1:04:12 韓劇有霸總,1:04:42 2. 恋する,1:06:51 "恋する"講解,1:08:05 我不吃香菜的比喻,1:08:22 用日文稱呼白白,1:09:44 3. 僕に彼女ができたんだ,1:13:22 "僕に彼女ができたんだ"解講,1:14:04 學弟學壞了 竟然會刷"醒",1:14:33 幻月跟冰霧,1:15:21 4. 君と夏フェス,1:19:03 "君と夏フェス"結束,1:19:40 太陽出來了差不多可以睡囉,1:19:57 喜歡的音樂類型,1:21:24 音樂祭清單,1:22:24 如果白白參加音樂祭 聽團規劃D1,1:23:46 D2,1:24:39 遲到的理由,1:25:20 D3,1:26:51 D4 很頂的一天,1:28:17 end 講解 && 開始說明各團名曲~(欲了解白白聽團喜好請從這裡開始收看),1:43:32 冰霧勞模,1:44:59 瘋狂過肩摔,1:45:37 2024,1:45:59 countDown jp 2324,1:46:54 有狼狼就去,1:48:18 天才白白 countDown2425,1:50:20 要過去看 要 要看,1:53:22 下周連動 && 下周直播規劃,1:54:16 帕姆帕姆,1:55:14 被霸總帶去遺失中心,1:55:50 有畫面 && 看了十個月不懂白白,1:56:18 沒人認領帶回地下室 沒有特別開心(?),1:57:22 魚報-ㄍ,1:59:08 ㄍㄅㄆ賣腎 修桿,2:00:32 混沌,2:01:55 有禮貌的格&&沒禮貌的&&很乖&&奶很大的,2:02:40 不會學壞吧(蛋雕),2:03:10 不要這麼沒禮貌,2:03:47 不要講,2:04:23 陽光出來了,2:04:30 不能見到陽光的茶番,2:05:54 WC,2:07:50 okaeri~,2:08:32 kusa,2:08:39 散步回家,2:09:19 茶番,2:10:47 超讚的房間,2:12:43 聲音魔法,2:13:43 茶番,2:15:16 地下室(又不懂了),2:15:42 髒亂的地下室才能襯托出...,2:17:14 清閒懂白白,2:18:22 o5信用卡,2:19:10 剛剛都謝了~,2:20:04 又,2:21:54 哥布林我們回巢吧,2:22:55 體操時間,2:26:15 今天也要元氣的一天,2:26:58 可以體操蓋章了,2:28:38 斷句很重要 這個學弟不要了,2:30:14 跳級生生活 沒有車位啦,2:31:37 沒辦法只能回家,2:32:19 學校ˋ為了讓學生適時的休息,2:32:47 你知道這樣有多委屈嗎,2:33:12 車位讓人受盡委屈,2:33:41 是學校不接納 對 觀念正確了,2:34:44 為了臨停 暫停抱歉 有事請來電,2:35:50 拖吊車,2:36:40 學校作法很白O(甚麼 原來不是跳級生?),2:39:00 人類是容易吃醋,2:40:31 想要男友睡衣,2:42:51 白大褂,2:43:02 原本想認黃色的當徒弟 太牙敗 蛋雕,2:44:16 好可愛像天使的白白學姊,2:44:47 想的不一樣的學弟們2:46:31 勸你們不要笑,2:47:47 不要攻擊死去的回憶(初配信),2:48:21 麥克風問題,2:49:43 暈了,2:50:24 名字怎麼取的,2:51:21 瓏拔帶學弟的,2:51:40 白白算是瓏拔的養女,2:52:51 kusa 伴舞團,2:54:32 學弟洗白太慢囉,2:55:22 10月20號 學弟出道五天 被學姊逼瘋自己(自己蛋雕自己),2:56:03 迫害冰霧 老公天下ˋ第一,2:58:41 5ma take2 && 白白虹阿~,3:01:35 新 Cover 合唱,3:02:10 誇白白環節,3:02:30 天竺鼠房間,3:02:57 好喜歡wii BGM(之前念書寫code會聽),3:03:40 俏皮BGM對比上地下室,3:04:35 打哈欠了 有fu了想睡了,3:05:45 沙威瑪傳奇OP,3:07:47 沙威瑪在 恩三小,3:09:01 撥個影片醒了醒了(社死警告),3:10:15 yt童貞認證,3:11:50 喇叭開很大聲(超鬧),3:12:47 色氣度0?,3:13:19 PUA 環節,3:13:55 聊天室氣氛對了(有E囉),3:14:20 天台好冷,3:15:14 WC,3:17:07 okaeri~ 氣質模式ON,3:17:56 氣質MAX,3:18:54 旁邊的圖忘了收起來,3:20:00 重新安裝一下模組,3:20:25 這時間沒人醒著就可以亂講話(是這樣嗎),3:21:19 白日e刪盡,3:21:44 沒有要走斜咖,3:22:03 甚麼叫走,3:22:33 做我自己,3:22:59 做愛自己,3:23:56 (做愛自己)播放中,3:24:29 (哼)做自己,3:24:48 又更愛白白了,3:25:29 幹嘛這麼兇 哭哭白白,3:27:10 (狂笑)全是感情 毫無技巧,3:28:47 可以用這招加薪嗎,3:30:12 (小哼) 你不懂我,3:32:03 要多久才能懂白白在說甚麼(2個禮拜, 恩 2年),3:32:21 5. 浪費,3:38:45 有一股宅宅味出來了,3:39:39 尚未有敲牆警報,3:40:13 澄清不是宅宅,3:41:06 為愛鼓掌,3:41:41 2p遊戲,3:42:56 澄清II && 痛車,3:44:07 隱藏曲 北京歡迎你 take1,3:45:32 阿光又扛,3:46:28 隱藏曲 北京歡迎你 take2,3:49:01 北京歡迎你 歌詞(嗯???),3:49:53 好像怪怪的,3:50:46 都是為了生活 (又白白扛),3:51:28 這麼這麼巧 都沒有說甚麼,3:52:14 開台意猶未盡 難怪有勞模,3:52:51 WC,3:54:26 okaeri~,3:55:27 春天娛樂 我是個人勢 勸你不要亂講話,3:56:17 霸總不日白白當個人勢,3:56:56 白白虹學姊aka全婆俠,3:57:06 付 "責" 600,3:58:40 小健忘,3:59:48 6. ハイド・アンド・シーク,4:03:05 準備去睡了,4:03:59 不要標時間軸,4:04:49 今天突發突完囉,4:05:02 晚上熙歌學姊 3D,4:05:31 88
+	} creditTo= myself
+	song={
+		54:51 1. 証明
+		1:04:42 2. 恋する
+		1:09:44 3. 僕に彼女ができたんだ
+		1:15:21 4. 君と夏フェス
+		3:44:07 隱藏曲 北京歡迎你 take1
+		3:46:28 隱藏曲 北京歡迎你 take2
+		3:32:21 5. 浪費
+		3:59:48 6. ハイド・アンド・シーク
+	}
+<--e-->//viewHacuco 樂團待補
+ title = ✞ 泡姆泡姆 ꙳ ✞ 和月月一起 ̖́- steam 新品節來試玩 !! 好玩遊戲 !! ♡ 🥼 *. ┊ Square Live 白白虹 
+	link= https://www.youtube.com/watch?v=txKF9f4R_Pc
+	date= 2024.10.21 1500
+	content={
+		
+	}
+<---->
+ title = 歌 B P ♡ 出門前再開一台 ♡ 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=pRA2ViRlu2M
+	date= 2024.10.22 0100
+	content={
+		.⊹ 曲目表｜セトリ sᴏɴɢʟɪsᴛ ⌒♡｡ 00:00:00 START,00:26:25 01. 小夜子／みきとP feat. 初音ミク,00:31:44 02. スピラーレ／牧野由依,00:39:20 03. みちしるべ／茅原実里,00:49:29 04. 寶貝／張懸,01:04:23 05. 水星記／郭頂└ 1:09:38 take2,01:18:27 05.5 你的情歌／TANK（敢）,01:29:10 06. 不會消失的夜晚／信樂團,01:48:54 07. 粛聖!!ロリ神レクイエム☆／しぐれうい,01:58:36 08. 華蕾夢ミル狂詩曲～魂ノ導～／ 神崎蘭子,02:08:10 09. 線香金魚／NOMELON NOLEMON,02:19:25 10. フレスベルグの少女～風花雪月～／Caro,02:27:17 11. 恋をしたのは／aiko,其他 ⌒♡｡ 02:25:57  bish-星が瞬く夜に- (清唱)
+	} creditTo= @xxSguKunxx
+<---->
+ title.old = 寶可夢朱紫 : 揮指大賽 ｜ 隊伍準備 ♡ ～ 報名參賽  🌈☁ ⋆｡˚
+ title = 白白虹 × 深夜 × 發瘋 🌈☁ ⋆｡˚ 
+	link= https://www.youtube.com/watch?v=03dxFXpsFow
+	date= 2024.10.25 0100
+	content={
+		
+	}
+<---->
+ title =  【白ちゃん初コラボ！】スペシャルゲストのはくちゃんと初配信！今スグ使える中文講座！🐣【新人VTuber/天木纯】特別講師：白白虹 ‪@xxhacucoxx_Celestial‬ 
+	link= https://www.youtube.com/watch?v=Jjgma4X_vGY
+	date= 2024.10.25 1900
+	content={
+		
+	}
+<---->
+ title = ✞ 白歌雑 ꙳ ✞ 唱歌聊天 ̖́- 補下午睡掉的部分 la 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=33ZNJm3oM-A
+	date= 2024.10.25 2204
+	content={
+		
+	}
+<---->
+ title = ✞ 吸毒 ꙳ ✞ 沙威瑪 ̖́- 都收到了 ... 我也只好沙一下了 .... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=72ketPzQb50
+	date= 2024.10.27 0145
+	content={
+		
+	}
+<---->
+ title =  ✞ 寶可夢陽壽大賽 ꙳ ✞ 祝我揮到破壞死光 ̖́- ‪@Kumosuki_Celestial‬ 主催 !! 豐富好禮等著尼 🌧 *. ┊ Square Live 白白虹 
+	link= https://www.youtube.com/watch?v=tiY65GlZqSw
+	date= 2024.10.27 1950
+	content={
+		.⊹ 曲目表｜セトリ sᴏɴɢʟɪsᴛ ⌒♡｡ 00:00 START,08:19 01. 麻雀學校,14:57 02. 狗影忍者／CZ Dogg,20:22 03. 秘密のトワレ／一ノ瀬志希,24:21 take2,29:31 04. スマイルあげない／ano,38:39 05. ラブレター／アイドルマスターシンデレラガールズ,46:41 06. 明日また会えるよね／アイドルマスターシンデレラガールズ,53:19 07. Memories／LOVE LAIKA,1:14:41 08. 蘑菇濃湯Remix／小啼大作兒童音樂
+	} creditTo= @xxSguKunxx
+	hightLight={
+		18:24,25:56 本篇精華(好好笑)
+	} creditTo= xxhacucoxx
+ <---->
+ title = ✞ 萬聖節奇蹟合唱歌回 ꙳ ✞ 幼光 × 幼白 ̖́- 我今天 ... 才藝表演 .. ㄐㄐ 8 8 ㄐ 8 8 .... 🌧 *. ┊ Square Live 白白虹 
+	link= https://www.youtube.com/watch?v=v6IiS9klWyk
+	date= 2024.10.29 2200
+	content={
+		
+	}
+<---->
+ title = ✞  cosplay 雑談 ꙳  ✞  萬聖節大 FUN 送   ̖́-  猜猜我 cos 誰 ????   🥼 *.  ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=5RJkpF6MuiY
+	date= 2024.10.31 1600
+	content={
+		
+	}
+<---->
+ /*
+	notGlobeal:
+		for engineersNotes
+ */
+ title.old = ✞  歌と雑談だよ ꙳  ✞  唱好好出門吃飽飽    ̖́-   星期三 ! 明天就放假了捏 ? 🥼 *.  ┊ Square Live 白白虹
+ title = ✞ 秋ㄐ練歌 ꙳ ✞ 什麼都聊 ̖́- 順便練練星期六歌回想唱的歌吧 ... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Tbguf_0IP2U
+	date= 2024.10.11 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 歌と雑談だよ ꙳ ✞ Youtube 再轉試試看 ̖́- 再轉我就 .... 就 .... 直接去睡覺喔 ! 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Tbguf_0IP2U
+	date= 2024.10.11 1530
+	content={
+		
+	}
+<---->
+ title = - ̗̀  ?????   ̖́-
+	link= https://www.twitch.tv/xxhacucoxx_celestial
+	date= 2024.10.12 1546
+	content={
+		//yt轉爛 改去twitch避難 初配信
+	}
+<--twitch-->
+ title = - ̗̀  新人 vtuber ♡ 圖奇初配信  |  第一次 .. 好緊  張    ̖́-
+	link= https://www.twitch.tv/xxhacucoxx_celestial
+	date= 2024.10.12 1502
+	content={
+		//yt轉爛 改去twitch避難 初配信
+	}
+<--twitch-->
+ title = 難得這個時間 ... 醒著的陪一下吧 ? 🌈☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=nI5HMYUTib4
+	date= 2024.10.15 0000
+	content={
+		
+	}
+<---->
+ title = 💉 失 眠 治 療 中 心 ☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=B48SjnMp1Vc
+	date= 2024.10.21 0230
+	content={
+		deleteLiveContent...
+		<--topSecret-->
+	}
+<--d-->
+ title = ✞ 白歌雑 ꙳ ✞ 唱歌聊天 ̖́- 晚上的連動好緊張 ... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Sw06KU5LBvY
+	date= 2024.10.25 1500
+	content={
+		2:46 start,2:58 TSKR,3:43 reason,4:44 collab,5:28 labor,5:47 2hr,6:50 check collab,7:47 son sun san su(prpr),8:48 car crash @2f,9:23 沙威瑪,9:47 ???,11:26 wt hell,11:42 超級糟糕_稱讚意味,13:07 開嗓,13:51 1. 離歌,18:06 爆了QWQ,18:35 今天還是聊天好了qwq,19:00 nomimono(screenshot),19:17 okaeri~,19:31 一定沒喝葡萄汁???,19:40 TSKR 好想睡覺,19:50 KPI RIP,20:57 睡覺台? NONONO,21:39 flight & collab reminder,22:02 bye TSKR bye~
+	}
+<--v-->

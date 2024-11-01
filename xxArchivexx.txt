@@ -1,0 +1,46 @@
+string projectName = xxArchivexx
+string baseVersion.liveTimes.birthdayCounts = 14.1.2
+/*
+index
+	liveMedia, liveBGM, shorts
+*/
+string index = ""
+<---->
+string archivesStartedAt = "2024.08.27"
+/*
+availablePublication 
+	decoration with fanArt or twwiterPosts
+		general
+		engineersNotes
+		secretNotes
+	publishingForm
+		E-format // pdf
+		P-format // printing, handwriting
+*/
+
+string queneArchivesLive = ""
+/*
+
+
+*/
+string shorts = ""
+<---->
+string queneThoseWeDoNotKnow = ""
+/*
+	75/300 membershipLive
+*/
+sting introNoun =""
+/*
+	kpi = one hr
+
+*/
+string ruleHacuco = ""
+/*
+	甚麼發言bed...etc
+
+*/
+string viewHacuco = ""
+/*
+	白白的想法、觀點etc
+
+*/

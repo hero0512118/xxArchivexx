@@ -1,0 +1,18 @@
+ /* format
+title = 
+	type= 75 or 300
+	link= 
+	date= 2024.10.25 1500
+	content={
+		
+	}
+<---->
+ */
+ title = 激 ♡ 突 ♡ 戰 ♡ 士 ♡ 反正我明天播晚上 ... 🌈☁ ⋆｡˚
+	type= public -> 75 or 300
+	link= https://www.youtube.com/watch?v=MaDZdyHVFf8
+	date= 2024.10.19 0315
+	content={
+		
+	}
+<---->
