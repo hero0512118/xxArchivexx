@@ -1,0 +1,132 @@
+#-->format
+-->ref/liveList
+<!--
+	2024.OO liveList
+-->
+/* format
+date= 2024.OO.OO 1500 title = 
+	link= 
+*/
+-->firstHacuco
+/* format
+ title = 
+	info = "" { date=  link= }
+
+*/
+-->queneArchivesLive/queneArchivesLivs_2024OO
+/*format
+ title = 
+	link= 
+	date= 2024.10.
+	content={
+		
+	}
+<---->
+*/
+-->queneThoseWeDoNotKnow
+ /* format
+title = 
+	type= 75 or 300
+	link= 
+	date= 2024.10.25 1500
+	content={
+		
+	}
+<---->
+ */
+-->shorts
+ /* format
+ title = 
+	link= 
+	date= 2024.1 1830
+<---->
+<!--
+	2024.1 shortsList
+-->
+*/
+
+#-->tags
+<brief> planText // may be appeneded after <chyabann>/<info>/<spoiler>
+<by/> o5Name planText //stands for that planText is said by o5
+<content> structure
+	//includes planText, <hightLight>/<song>
+<chyabann> planText
+<debut date= link=> uniqueTag
+<hightLight> planText
+<info> planText
+<li> planText
+<neta> planText //600
+<ref/> link or source
+<song> planText, includes songList
+<spoiler> planText
+<type> int, 75 or 300
+<!---->
+<QWQ> QWQ //fakeTag
+
+#-->param
+date =
+date= //inner param
+link =
+link= //inner param
+title = 
+views = planText structure
+<!---->
+creditTo= // be appeneded after any tags
+	//suffix param for content/hightLight
+firstAisatsu= //uniqueParam, single use
+name=
+
+
+#-->marks
+/* notGlobal
+*/
+<!---->
+/* notGlobal && deleted
+*/
+<!---->
+#EEE //stand for edit yet finished
+<!--type-->
+	<--v--> stands for complete
+	<--e--> stands for editing/some details yet orgranized
+	<--d--> stands for live is unarchived
+	<--topSecret-->
+	-->viewHacoco
+		<!--愛情觀-->
+		<!--食物-->
+		<!--季節天氣-->
+		<!--不舒服&開台-->
+		<!--娛樂-->
+		<!--有在聽的樂團-->
+<!---->
+
+#-->symbol
+└ //yet assigned
+
+#-->var
+-->index
+	void hacuco.techcorp
+	void songList
+	image emoji
+	int age
+	int bodynumber
+	string accessories
+	string birthday
+	string fanName
+	string favorite
+	string games
+	string goodAt
+	string hobby
+	string introJob
+	string languages
+	string name
+	string nick
+	string tags
+	string whatThingsIHat //Hat is hacuco's typo
+-->shorts
+	void shorts.song
+	
+#-->structure
+-->index
+	string birthday.denyGifts
+	string favorite.range
+	string games.target

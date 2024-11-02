@@ -1,15 +1,335 @@
  /* format
  title = 
 	link= 
-	date= 2024.10.25 1500
+	date= 2024.1 1830
+<---->
+<!--
+	2024.1 shortsList
+-->
+*/
+void shorts.song = ""
+	song={
+		2023.11.01 粛聖!!ロリ神レクイエム☆ ✞ Covered by 白白虹 link= https://www.youtube.com/watch?v=8lCXuElAL4E
+		2023.11.04 群青讃歌 | Eve ✞ covered by 白白虹 link= https://www.youtube.com/watch?v=QCk0YZWitsA
+		2023.11.15 線香金魚 | NOMELON NOLEMON ✞ Covered by 白白虹 link= https://www.youtube.com/watch?v=46Y1b2KN-fk
+		2023.11.21 アイワナムチュー ✞ Covered by 白白虹　#vtuber #新人vtuber link= https://www.youtube.com/watch?v=HRaxtr1leWc
+		2023.11.29 再び ✞ 粛聖 ! ! ロリ神レクイエム ☆ ✞ Covered by 白白虹 link= https://www.youtube.com/watch?v=eSbNAD75v4g
+		2024.02.08 ✞ 5MA꙳ ✞ 白白虹 5MA之歌Challenge #5machallenge ⌇ Square Live 白白虹 xxhacucoxx link= https://www.youtube.com/watch?v=UCk09B973R8
+		2024.03.21 ✞ 使勁搖 ✞ 白白虹的ㄟ浮逼哀版 ⌇Square Live 白白虹 link= https://www.youtube.com/watch?v=uFZHrCKCpDk
+		2024.06.21 ✞ しかのこのこのここしたんたん ✞ squarelive 白白虹 #しかのこのこのここしたんたん link= https://www.youtube.com/watch?v=vYYyuMKdyrE
+	}
+<!--
+	2023.11 shortsList
+-->
+ title = 粛聖!!ロリ神レクイエム☆ ✞ Covered by 白白虹
+	link= https://www.youtube.com/watch?v=8lCXuElAL4E
+	date= 2023.11.01 IDK
+<---->
+ title = 群青讃歌 | Eve ✞ covered by 白白虹
+	link= https://www.youtube.com/watch?v=QCk0YZWitsA
+	date= 2023.11.04 IDK
+<---->
+ title = ✞ 抄寫心經 ，體悟心靈祥和 ✞ ⌇Square Live 白白虹 #vtuber #新人vtuber 
+	link= https://www.youtube.com/watch?v=GV5IL84Utqo
+	date= 2023.11.07 IDK
+<---->
+ title = 春魚新人抄大悲咒 ✞ 居然抄得很開心？ ✞ 白白虹 #vtuber #新人vtuber 
+	link= https://www.youtube.com/watch?v=2hJeFjIm2Pw
+	date= 2023.11.11 12??
+<---->
+ title = 海豹幫的第一個福利 ✞ 廢片 ✞ 白白虹 #vtuber #新人vtuber #春魚工作室 
+	link= https://www.youtube.com/watch?v=VkuJ91Qc9mo
+	date= 2023.11.14 17??
+<---->
+ title = 線香金魚 | NOMELON NOLEMON ✞ Covered by 白白虹
+	link= https://www.youtube.com/watch?v=46Y1b2KN-fk
+	date= 2023.11.15 19??
+<---->
+ title = 我看倒有點像... ✞ 罰抄課文 ✞ 白白虹 #vtuber #春魚工作室 #新人vtuber 
+	link= https://www.youtube.com/watch?v=RAeOKfdXdBs
+	date= 2023.11.16 20??
+<---->
+ title = 春魚逆流而上 ✞ 罰抄課文 ✞ 白白虹 #超會抄 
+	link= https://www.youtube.com/watch?v=OAk3qKn9Ai4
+	date= 2023.11.18 18??
+<---->
+ title = アイワナムチュー ✞ Covered by 白白虹　#vtuber #新人vtuber 
+	link= https://www.youtube.com/watch?v=HRaxtr1leWc
+	date= 2023.11.21 19??
+<---->
+ title = 白白虹打給你 ✞ #vtuber #新人vtuber 
+	link= https://www.youtube.com/watch?v=rUnWVXcmixU
+	date= 2023.11.23 17??
+<---->
+ title = 白白虹的書包 ✞ 罰抄課文 ✞ 白白虹 xxhacucoxx #超會抄 
+	link= https://www.youtube.com/watch?v=CK2XDd2bq8s
+	date= 2023.11.25 1230
+<---->
+ title = 再び ✞ 粛聖 ! ! ロリ神レクイエム ☆ ✞ Covered by 白白虹
+	link= https://www.youtube.com/watch?v=eSbNAD75v4g
+	date= 2023.11.29 1830
+<---->
+<!--
+	2023.12 shortsList
+-->
+ title = 阿彌陀佛虹 ✞ 廢 pen ✞ 白白虹 xxhacucoxx #春魚工作室 
+	link= https://www.youtube.com/watch?v=5CBaWkxUC1M
+	date= 2023.12.02 12??
+<---->
+ title = 剛滿十八歲 ✞ 怪片 ✞ 白白虹xxhacucoxx #新人vtuber 
+	link= https://www.youtube.com/watch?v=d4vQKP6t_Gs
+	date= 2023.12.04 17??
+<---->
+ title = ✞ 超級胎歌 ꙳ ✞ 一言不合就開臭聊天室（物理） ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=BDruvoBmzVA
+	date= 2023.12.07 18??
+<---->
+ title = ✞ 不是自由配 ꙳ ✞ 中午配餐再加顆滷蛋 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=xqw2Rjf2nzI
+	date= 20243.12.09 1200
+<---->
+ title = ✞ 超級斜咖 ꙳ ✞ 有求必應！這就是主播說到做到的魅力 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=ip2U92TswUc
+	date= 2023.12.13 1800
+<---->
+ title = ✞ o5悲歌꙳ ✞ 直播當面迫害聊天室的白主播 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=SP0Lr3UhgLY
+	date= 2023.12.17 1200
+<---->
+ title = ✞ 夫人不要꙳ ✞ 同步視聽瓏拔竟被更不得了的大人物同步視聽 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=a_qMbStnXfc
+	date= 2023.12.22 IDK
+<---->
+ title = ✞ 音量注意꙳ ✞ 白主播祝大家有一個愉快的聖誕節及新年 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=v8cR7TRekGI
+	date= 2023.12.27 1800
+<---->
+ title = ✞ 又剪這種꙳ ✞ 提供建議竟被主播無情吐口水 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=y3r722YFeA0
+	date= 2023.12.30 1905
+<---->
+<!--
+	2024.01 shortsList
+-->
+ title = ✞ 媽咪是對的꙳ ✞ 返祖現象！把這兩個字看錯還反過來檢討觀眾 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=RSYfnJ8U0GI
+	date= 2024.01.07 1230
+<---->
+ title = ✞ 真的不敢꙳ ✞ 第一次那個！亂摸被無情神罰 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=zdz_QZy-4j8
+	date= 2024.01.12 1800
+<---->
+ title = ✞ 高P戰士꙳ ✞ 祖母極巨化！玩遊戲玩到瘋掉... ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=h2tHM28o-G8
+	date= 2024.01.16 1800
+<---->
+/*deleted
+ title = ✞ 鴨組白白꙳ ✞ 搶救春魚大兵！這個地方我是一刻都待不下去了  ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=EE-YU-1HZtI
+	date= 2024.01.19 1800
 <---->
 */
-//shorts
- title = 
+ title = ✞ 鼻音5MA꙳ ✞ 難得的官方福利shorts？到底誰起床會刷牙 ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=5yLsZuHDCvM
+	date= 2024.01.26 1800
+<---->
+<!--
+	2024.02 shortsList
+-->
+ title = ✞ 超派꙳ ✞ 臉上有疤超叛逆！變成這樣你們還會愛嗎？ ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=5m3NhQVsuTs
+	date= 2024.02.01 1940
+<---->
+ title = ✞ 5MA꙳ ✞ 白白虹 5MA之歌Challenge #5machallenge ⌇ Square Live 白白虹 xxhacucoxx 
+	link= https://www.youtube.com/watch?v=UCk09B973R8
+	date= 2024.02.08 2030
+<---->
+ title = ✞ 粉隨其主 ✞ 遠在海外也要參與的粉絲！沒想到第一句話竟是...... ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=3D0E4c3Z3Mg
+	date= 2024.02.14 1200
+<---->
+ title = ✞ 黃色支配 ✞ 要做一件大事！與恐怖遊戲融為一體！？ ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=j-bbRZuD4pM
+	date= 2024.02.21 1915
+<---->
+ title = ✞ 送月月的禮物 ✞ 接受的原因是？ 不被愛的才是第三者！⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=vHIbZ9XtoDg
+	date= 2024.02.28 2000
+<---->
+<!--
+	2024.03 shortsList
+-->
+ title = ✞ 新品種生物✞ 當條件湊齊！？白白蟲降臨！⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=EjegBMo7-7Q
+	date= 2024.03.06 1900
+<---->
+ title = ✞ 白白是遊戲角色✞角色等比例對比後...原來白白的身高很... (消音) ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=uq-_b3_qwhc
+	date= 2024.03.13 1900
+<---->
+ title = ✞ 遊戲天才✞喝點甜的東西！感覺腦袋也會跟著長出來！ ⌇ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=5CH-oRAWJdg
+	date= 2024.03.20 1930
+<---->
+ title = ✞ 使勁搖 ✞ 白白虹的ㄟ浮逼哀版 ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=uFZHrCKCpDk
+	date= 2024.03.21 1730
+<---->
+<!--
+	2024.04 shortsList
+-->
+ title = ✞ 我很會喔 ✞你們聽的出我在吹什麼歌嗎？ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=U2JaO1SnOJ4
+	date= 2024.04.05 1900
+<---->
+ title = ✞ 簡單問題 ✞隨便都能回答的！白白虹的十個優點！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=2pTC89eFCjI
+	date= 2024.04.10 2000
+<---->
+ title = ✞ 真的假的 ？✞今天我特別清楚嗎？(づ￣ 3￣)づ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=HrvOeeiHBGo
+	date= 2024.04.17 2000
+<---->
+ title = ✞月月你喜歡我✞想吃麻辣鍋！月月你喜歡我妳也要去！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=M86nQEFVDhs
+	date= 2024.04.24 2000
+<---->
+<!--
+	2024.05 shortsList
+-->
+ title = ✞月月特權✞月月你看！我這麼會畫你！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=D5CZuC3qXjY
+	date= 2024.05.01 1900
+<---->
+ title = ✞詢問店員✞你吃過店裡的食物嗎？哪個好吃？真的假的？⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=2GER38BkFPY
+	date= 2024.05.08 1900
+<---->
+ title = ✞我超會模仿✞我記得雲隙光的笑聲是這樣！和和和和！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=9uiEPk6Seos
+	date= 2024.05.15 2130
+<---->
+ title = ✞這樣真的沒事嗎？✞那個老鼠吃巧克力欸！這是可以的嗎？⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=X3Zq-t4RmYc
+	date= 2024.05.22 1800
+<---->
+ title = ✞這個不能說嗎？✞像幼白喜歡打ＯＯ！這種應該不能講吧？⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Z1joe4L5zLY
+	date= 2024.05.29 1830
+<---->
+<!--
+	2024.06 shortsList
+-->
+ title = ✞氣噗噗模仿✞沒有任何加水！瑟拉斯蒂歐的生氣都這樣！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Wo_1ls0kV-g
+	date= 2024.06.05 1830
+<---->
+ title = ✞超勇白白虹✞我喝起來！連學姊都罵給你看！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=TTEACtJpnWo
+	date= 2024.06.19 1830
+<---->
+ title = ✞ しかのこのこのここしたんたん ✞ squarelive 白白虹 #しかのこのこのここしたんたん 
+	link= https://www.youtube.com/watch?v=vYYyuMKdyrE
+	date= 2024.06.21 0028
+<---->
+ title = ✞黃色笑話✞真的說不膩！黃色笑話真好用！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=LMaaBg-ZCtM
+	date= 2024.06.26 1830
+<---->
+<!--
+	2024.07 shortsList
+-->
+ title = ✞笑話✞我喜歡的偶像不是貓系或狗系，是傻Ｏ習⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=atIY5PRsCmw
+	date= 2024.07.03 1830
+<---->
+ title = ✞又倒插✞這個奶大的就是我啊！不是那個整天倒插的！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Pa-0n4xeIl4
+	date= 2024.07.10 1800
+<---->
+/*yabasukiru(kusa
+ title = ✞虎狼之詞✞把中Ｏ這種話解釋的這麼正面！？不要瞎掰好嗎？⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=8XS76hG3bZg
+	date= 2024.07.17 1830
+<---->
+*/
+ title = ✞鹹爆米花✞一個人吃甜爆米花！吃著吃著就會變鹹對不對？⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=r6-mSEagK0Y
+	date= 2024.07.24 1800
+<---->
+ title = ✞虱目魚小子✞這個真的有人喜歡嗎？好恐怖喔！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=zFnsAKtCPI0
+	date= 2024.07.31 1800
+<---->
+<!--
+	2024.08 shortsList
+-->
+ title = ✞寵粉✞看完這部影片你就知道，白白對觀眾有多寵！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=uoLgSEbDwNs
+	date= 2024.08.07 1800
+<---->
+ title = ✞ 福利虹 ꙳ ✞ 語音包，送給身邊符合條件的親朋好友吧 ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=tdVC1rfsPzc
+	date= 2024.08.13 1930
+<---->
+ title = ✞他在解釋✞打出其它女生的名字！這位o5緊張瞜！⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=1-s3w6M5lHE
+	date= 2024.08.14 1830
+<---->
+ title = ✞ 福利虹 ꙳ ✞ 語音包，我是什麼很賤的人嗎 ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=E8Ydhhnsid8
+	date= 2024.08.16 1838
+<---->
+ title = ✞ 扮演瞎妹✞ 怎麼辦～人家一直打哈欠是不是要死掉了～ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=h5Cq1SACpKM
+	date= 2024.08.21 1830
+<---->
+ title = ✞ 與百列的對話✞ 每次跟百列他這麼說話時，他都這麼回我 ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=VJ5cGECuW9U
+	date= 2024.08.28 2010
+<---->
+<!--
+	2024.09 shortsList
+-->
+ title = ✞ 炸雞總匯✞ 讓我來教你！怎麼坐上地獄列車吧！ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=DSxymYaGyHw
+	date= 2024.09.04 2030
+<---->
+ title = ✞ 超棒棒平台 ꙳ ✞ Razer Gold ̖́- 春魚創意合作！好禮開抽啦 laaaa *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=jBJDCUmgEmI
+	date= 2024.09.11 1200
+<---->
+ title = ✞ 罵倒✞ 這樣罵就破防喔？太弱了吧！ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Vvfp3tYIJsA
+	date= 2024.09.11 1830
+<---->
+ title = ✞這也能RAP✞ 這就是天才白白虹！罵倒RAP！ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=eCfiphNq3dA
+	date= 2024.09.18 1830
+<---->
+ title = ✞爸爸的小公主✞ 開玩笑！這是理所當然的吧！ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=IZcsCocau6E
+	date= 2024.09.25 1830
+<---->
+<!--
+	2024.10 shortsList
+-->
+ title = ✞白白當女僕✞ 當女僕要跟客人聊天？我看起來像會跟客人聊天嗎？ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=pKBHV08KZBA
+	date= 2024.10.06 1800
+<---->
+ title = ✞怎麼可以戳破我✞ 誇獎闆闆後！居然被香魚貼出過去貼文揭穿想法！？ ⌇Square Live 白白虹
 	link= https://www.youtube.com/watch?v=OKhuxzubupU
-	date= 2024.10.18 1500
+	date= 2024.10.13 1800
 <---->
  title = ✞這是爽夢✞ 瘋狂在櫃台上跳來跳去！我控制不住自己啊！？ ⌇Square Live 白白虹 
 	link= https://www.youtube.com/watch?v=8RKZyUlzpXM
 	date= 2024.10.20 1800
 <---->
+ title = ✞衣架大盜✞ 烏鴉真的超沒品的！你看他充滿衣架的巢！ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=0TTH5v4-EOc
+	date= 2024.10.27 1800
+<---->
+<!--
+	2024.11 shortsList
+-->

@@ -1,0 +1,28 @@
+/* format
+ title = 
+	info = "" { date=  link= }
+
+*/
+<!--白白-->
+ title = 第一首改詞 
+	info = "千本桜"	{ date= 2023.12.06 link= https://www.youtube.com/watch?v=IG89vrnc9kE}
+ title = 第一次五速嘴
+	info = (初配信周表介紹時) { date= 2023.12.06 link= https://www.youtube.com/watch?v=IG89vrnc9kE}
+ title = cPart 
+	info = {
+		(初配信後轉機至月月初配信)"哈摟 謝謝大家今天的收看 非常非常"
+		"雖然我好像有一點胡言亂語 但是你們要相信我是個非常 非常那個清楚可愛性感迷人 胸部又大身材又好的女人"
+		"啊 我們現在要去看那個全世界最會 最會晃最會搖最大的女人的頻道了"
+		"大家準備好了嗎 飛機要起飛囉 請繫好你的喵安喵全帶 嗯そう 喵全帶是這樣講嗎 隨便 好 我們出~發~~~ 掰掰じゃねえおやすみ"
+	}date= 2023.12.06 link= https://www.youtube.com/watch?v=IG89vrnc9kE}
+ title = 第一次 QWQ 哭哭臉
+	info = (初配信唱歌前的茶番) { date= 2023.12.06 link= https://www.youtube.com/watch?v=IG89vrnc9kE}
+ title = "今週の一言" //（こんしゅうのひとこと）
+	info = "駆け出し初心者です！何卒よろしくお願いしますにゃ" { date= 2023.12.06 link= https://www.youtube.com/watch?v=IG89vrnc9kE}
+	// かけだししょしんしゃです！なにとぞよろしくおねがいしますにゃ
+
+
+<!--百列-->
+ title = 百列第一句話
+	info = "喔↘ ~" { date = 2023.12.06 link = https://www.youtube.com/watch?v=IG89vrnc9kE}
+	//<seal>喔↘ ~ (天使豹豹教的大天使豹豹加百列)

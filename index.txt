@@ -9,21 +9,133 @@ index
 //liveMedia
 //liveBGM
 
-name = 白白虹, xxhacucoxx
-nick = 百白虹, 百比虹, THE☆天才, はくなまたた, etc.
-/*https://www.youtube.com/watch?v=eEqdt2GUSYg 1:08:22
-はくじゃん　？）　はくさま　で読んでいい。　//はくさま　気持ちいい
-はくじゃん　/　はくさま　/　はくたん　何でもOKです
-*/
-海豹 = 加百列(天使豹豹教的大天使豹豹加百列)
-age = 14
-birthday = 04.03
-body number = 178cm(173+5呆毛) // 143+5
-languages = 中文、日本語(good), 英語、台灣語(bed)
-JavaScript, HTML5, CSS, SCSS, jQuery, Vue 2&3
-favorite = 蘿莉(酪梨)
-emoji = :lab_coat:
-fanName = TBD (虹金寶？)
-hashTag = #白虹慟哭
-liveTag = #hacucoala
-fanTag = #hacucoarrrt
+<debut date=2023.12.06 2000 link=https://www.youtube.com/watch?v=IG89vrnc9kE>
+	string introJob = "Celestial 頭腦身材以及臉蛋擔當"
+	string name = {
+		"白白虹", "xxhacucoxx"
+		//<info/> 前面要加 2 個 x!!
+		//<chyabann/> 冒充說自己是雲隙光
+	}
+	string nick = {
+		"百白虹", "百比虹", "THE☆天才", "はくなまたた", etc.
+		//<chyabann/> 不要 阿虹, 像是賣檳榔的
+	}
+	string nick.jp = {
+		"はくじゃん", "はくさま", "はくたん"
+		/* <ref/>https://www.youtube.com/watch?v=eEqdt2GUSYg 1:08:22
+		<info/>
+			はくじゃん　？）　はくさま　で読んでいい。　//はくさま　気持ちいい
+			はくじゃん　/　はくさま　/　はくたん　何でもOKです
+		*/
+	}
+	int age = 14
+	string birthday = 04.03
+	birthday.denyGifts ={
+		"原味內褲" //格鼻鄰居妹妹 13歲以下 也是直接蛋雕
+	}
+	int bodynumber = {
+		178
+		//<info/>use cm, (173+呆毛5)
+		//<spoiler/>實際呢 為 143+呆毛5
+	}
+	string languages = {
+		(good) "中文"、"日本語",
+		(bed) "英語"、"台湾語",
+		"JavaScript", "HTML5", "CSS", "SCSS", "jQuery",
+		(framework) "Vue 2 & 3"
+	}
+	string favorite = "蘿莉(酪梨)" //搭配牛奶 or直接吃
+	favorite.range = {
+		<li/>"女", "人類", "14歲以下", "<= Acup"
+		<li/>"家長同意者佳", "無經驗者OK", "要很愛我^^"
+	}
+	srting games = "周遊在美男子中,玩弄他悶的內心"
+	games.target = {
+		"人類"、 "幻獸"、 "吸血鬼"、 "死神"、 "富二代"、 "偶像"、 "學長學弟"
+		//まさに 情聖白白虹
+		//<spoiler/> however 家裡管很嚴
+	}
+	string hobby = "幫女孩吉換衣服"
+		<info/>"粉粉的", "可可愛愛的", "就像我一樣", "從內衣開始精挑細選", "就像我一樣"
+	string whatThingsIHat = {
+		<li/>"蟑螂"
+		<li/>"雲隙光" //眼睛漂亮的女森 <chyabann/>眼睛綠綠的閃閃的 就好像在問你要不要買檳榔 不喜歡被推銷的感覺
+		<li/>"幻月" //胸部很DA的女森 <chyabann/>乃在晃很卑鄙 好像在開掛一樣
+		<li/>"冰霧" //存在感hen低的女生 <chyabann/>名字記不起來
+		<li/>"下樓梯"
+		//<chyabann/> 很危險 被自己擋住看不到下面 很危險
+		//<info/>下樓梯滾過 97654321487 次, 智商從 287 被摔到剩 187
+	}
+	string goodAt = {
+		<li/>"抄心經", "唱歌", "寫扣coding"
+		//花了 2分鐘寫出 與白虹締結契約咩 的網頁
+		<li/>"跑馬拉松", "美式足球", "摔角", "衝浪"
+		//<spoiler/>實際運動力...
+		<li/>"真·巨乳自拍 乳寫真" //最擅長
+	}
+	<!--白白三視圖、 加百列三試圖 配件/周邊-->
+	//<chyabann/>李多慧的腿跟白白一樣長
+	string accessories	= {
+		<li/>"星之呆毛"
+		<li/>"左耳飾為閃爍彩虹投影燈" //白白親自製作 買一個投影燈塞進去就好
+		<li/>"左眼六芒星" //是可熄滅的
+			//<chyabann/>看yt時看到中華一番 看了好久好久好久 突然心有劉昴星 我的眼睛就出現六芒星
+			//<brief/>"心有劉昴星 眼睛就會有六芒星"
+		<li/>"有可以咬人的兔寶寶牙齒"
+		<li/>"海豹介紹"
+			<info>
+				name="加百列" //<seal>喔↘ ~ (天使豹豹教的大天使豹豹加百列)
+				firstAisatsu="你們通通都被抓去關好了" //<seal>喔~喔~ 喔↘ ~~~~ 喔↗ ~ 
+				<brief/>看起來可愛但其實滿毒舌 //<seal>喔~ 喔~ 喔~
+			</info>
+		<li/>"彩虹徽章、owo識別證、雲朵環、鐵壁短裙、雲拖鞋"
+			<info/>上班戴的識別證 才能逼卡卡 如果被幹走了 就不用上班了 //歡迎幹走
+	}
+	<!--白虹是甚麼/白色彩虹-->
+	void hacuco.techcorp = {
+		<li/>伸手廚 不行 身為工程師 要會自己 google //這是最必要的技能
+		<li/>學會google 就能申請加入 虹嗨科技集團 // logo是 H 底下公司名稱 "虹嗨科技集團"
+			<neta/>學會google 人生再也不是孤單一隻狗
+		<info>
+			<li/>天才 14 歲前大學畢業了 在科技產業當社畜(工程師)
+			<li/>孤僻怕生無法融入現充同事交友圈 then 鼓起勇氣 超越自己 (為了)認識更多人 所以來當Vtuber //GNPS
+		</info>
+	}
+	image emoji = ":lab_coat:" // 白衣戰士<neta/>白癡嗎意義戰士
+		<info/> emoji.jp = "hacui"
+	string fanName = "o5" //
+	#EEEEEEEEEEEEEEEEEEEEEEE
+		<info>
+			<li/>初配信時尚未決定 ??? //TBD 
+			<li/>霧醬建議 粉絲要不要叫做虹金寶？
+		</info>
+	string tags = {
+		hashTag = "#白虹慟哭"
+		liveTag = "#hacucoala" 
+		fanTag = "#hacucoarrrt" //3個r 多一個r就多一個寶藏
+			<neta/><spoiler/>白白的mama 998老師 fanart 是 #998arrrt
+	}	
+	/* <chyabann>
+		不要走啦 賣造啦 急著下班喔
+		我(白白)都還在上班了 你走甚麼走 我要慟哭了喔 你們小心我要慟哭囉
+		他 他說他要走 他討厭我
+		他一定是覺得我三天沒洗澡 太臭了 QWQ 才三天而已 三天又沒有很久
+		<QWQ>
+	</chyabann>
+	*/
+	void songList = {
+		˖.⊹ 曲目表｜セトリ sᴏɴɢʟɪsᴛ ⌒♡｡
+		　01. 0:03:49 千本桜 / 黒うさP (白白虹改詞)
+		　02. 0:35:16 虹 / Aqua Timez
+		　03. 0:40:57 彩虹 / 周杰倫 (白白虹改詞)
+		　04. 0:47:08 彩虹 / 張惠妹 
+		　05. 0:51:36 彩虹 / 動力火車
+		　06. 0:56:20 虹 / 二宮和也 
+	} creditTo= @1y0kq
+	/* <chyabann>
+		<li/>還我加百列
+		<li/>阿里嘎多 挖咖摸多
+	</chyabann>
+	*/
+	<info/>"白虹咆嘯" //歌回
+</debut>
