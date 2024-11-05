@@ -11,7 +11,11 @@
 
 
 
+/*
 
+	xxArchivexx started at 2024.08.27
+
+*/
 
 
 //before 2024.10 yet finished
@@ -23,10 +27,12 @@ date= 2024.10.02 1500 title = ✞ 尼爾 : 胃痛生命 ꙳ ✞ 二周目 ̖́- 
 	link= https://www.youtube.com/watch?v=nzVbngO9n8U
 date= 2024.10.04 1500 title = ✞ 白噪音 ꙳ ✞ 久違聊聊 ̖́- 近日身體多災多難 , 大概像颱風天的高雄 .. 🌈 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=PB5_5U836Ok
-date= 2024.10.05 1455 title =  ✞ #跑步接力歌回 ꙳ ✞ 運動力 0 ̖́- 誰會邊跑步邊唱歌邊直播阿 ? 我們 .... 🌧 *. ┊ Square Live 白白虹 
+date= 2024.10.05 1455 title = ✞ #跑步接力歌回 ꙳ ✞ 運動力 0 ̖́- 誰會邊跑步邊唱歌邊直播阿 ? 我們 .... 🌧 *. ┊ Square Live 白白虹 
 	link= https://www.youtube.com/watch?v=rxs7vElIeS8
 date= 2024.10.07 1500 title = ✞ 咒 ꙳ ✞ 月曜日恐遊最適合 ̖́- 才下午而已... 怕的是小狗... 白白虹 : 汪汪 ! 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=yIvvFpqt-3c
+date= 2024.10.07 1640 title = ✞ 歌と雑談だよ ꙳ ✞ 星期一好憂鬱 ̖́- 這周開始是 勤奮白白虹 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=A1jczcTxiFo
 date= 2024.10.08 1500 title = ✞ 模特兒出道 3 nicola ꙳ ✞ 80萬追蹤邁進中 ̖́- 究竟能不能接到連續劇工作呢 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=7f_82--d0VQ
 date= 2024.10.09 0335 title = emo 中 ... 醒著的陪一下吧 ? 🌈☁ ⋆｡˚
@@ -39,7 +45,7 @@ date= 2024.10.11 1500 title = ✞ 秋ㄐ練歌 ꙳ ✞ 什麼都聊 ̖́- 順便
 date= 2024.10.11 1530 title = ✞ 歌と雑談だよ ꙳ ✞ Youtube 再轉試試看 ̖́- 再轉我就 .... 就 .... 直接去睡覺喔 ! 🥼 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=Tbguf_0IP2U
 */
-date= 2024.10.12 1500 title =  ✞ 歌うのだ ꙳ ✞ 唱想唱的 ̖́- 從開嗓開始 !! 我剛起床 !! #我愛羅YT 🥼 *. ┊ Square Live 白白虹 
+date= 2024.10.12 1500 title = ✞ 歌うのだ ꙳ ✞ 唱想唱的 ̖́- 從開嗓開始 !! 我剛起床 !! #我愛羅YT 🥼 *. ┊ Square Live 白白虹 
 	link= https://www.youtube.com/watch?v=lb-A859o3oI
 date= 2024.10.14 1500 title = ✞ 雑談だよ ꙳ ✞ 今天開始我是學姐 ̖́- 請叫我白白虹學姐 , 不准站得比我高 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=1A1XcMDCboQ
@@ -59,6 +65,12 @@ date= 2024.10.18 0245 title = 再びの EMO TIME .... 醒著嗎 ? 🌈☁ ⋆｡
 	link= https://www.youtube.com/watch?v=Fk9A5YpPFf0
 date= 2024.10.18 1500 title = ✞ 歌と雑談だお ꙳ ✞ 周末啦 ̖́- 這周好累累 ... emo 獸滾 !!! 🌧 *. ┊ Square Live 白白虹Square Live 白白虹
 	link= https://www.youtube.com/watch?v=2K4Pus032Q8
+/* public->membership
+date= 2024.10.19 0315 title = 激 ♡ 突 ♡ 戰 ♡ 士 ♡ 反正我明天播晚上 ... 🌈☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=MaDZdyHVFf8
+*/
+date= 2024.10.19 1900 title = ✞ 歌うのだ ꙳ ✞ 1 小時內 8 首歌 ̖́- 肯定很簡單的吧 ♡ 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=1SSAp7boxpU
 date= 2024.10.20 0530 title = 激 ♡ 突 ♡ 戰 ♡ 士 ♡ 睡夠了吧 ... 哥 ~ 去幫我買早餐啦 🌈☁ ⋆｡˚
 	link= https://www.youtube.com/watch?v=eEqdt2GUSYg
 /* notGlobal && deleted
@@ -73,15 +85,15 @@ date= 2024.10.25 0100 title = 白白虹 × 深夜 × 發瘋 🌈☁ ⋆｡˚
 	link= https://www.youtube.com/watch?v=03dxFXpsFow
 /* notGlobal
 date= 2024.10.25 1500 title = ✞ 白歌雑 ꙳ ✞ 唱歌聊天 ̖́- 晚上的連動好緊張 ... 🌧 *. ┊ Square Live 白白虹
-    link= https://www.youtube.com/watch?v=Sw06KU5LBvY
+    #link= https://www.youtube.com/watch?v=Sw06KU5LBvY
 */
-date= 2024.10.25 1900 title =  【白ちゃん初コラボ！】スペシャルゲストのはくちゃんと初配信！今スグ使える中文講座！🐣【新人VTuber/天木纯】特別講師：白白虹 ‪@xxhacucoxx_Celestial‬ 
+date= 2024.10.25 1900 title = 【白ちゃん初コラボ！】スペシャルゲストのはくちゃんと初配信！今スグ使える中文講座！🐣【新人VTuber/天木纯】特別講師：白白虹 ‪@xxhacucoxx_Celestial‬ 
 	link= https://www.youtube.com/watch?v=Jjgma4X_vGY
 date= 2024.10.25 2204 title = ✞ 白歌雑 ꙳ ✞ 唱歌聊天 ̖́- 補下午睡掉的部分 la 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=33ZNJm3oM-A
 date= 2024.10.27 0145 title = ✞ 吸毒 ꙳ ✞ 沙威瑪 ̖́- 都收到了 ... 我也只好沙一下了 .... 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=72ketPzQb50
-date= 2024.10.27 1950 title =  ✞ 寶可夢陽壽大賽 ꙳ ✞ 祝我揮到破壞死光 ̖́- ‪@Kumosuki_Celestial‬ 主催 !! 豐富好禮等著尼 🌧 *. ┊ Square Live 白白虹 
+date= 2024.10.27 1950 title = ✞ 寶可夢陽壽大賽 ꙳ ✞ 祝我揮到破壞死光 ̖́- ‪@Kumosuki_Celestial‬ 主催 !! 豐富好禮等著尼 🌧 *. ┊ Square Live 白白虹 
 	link= https://www.youtube.com/watch?v=tiY65GlZqSw
 date= 2024.10.29 2200 title = ✞ 萬聖節奇蹟合唱歌回 ꙳ ✞ 幼光 × 幼白 ̖́- 我今天 ... 才藝表演 .. ㄐㄐ 8 8 ㄐ 8 8 .... 🌧 *. ┊ Square Live 白白虹 
 	link= https://www.youtube.com/watch?v=v6IiS9klWyk
@@ -90,3 +102,8 @@ date= 2024.10.31 1600 title = ✞  cosplay 雑談 ꙳  ✞  萬聖節大 FUN 送
 <!--
 	2024.11 liveList
 -->
+date= 2024.11.04 0625 title = 從限定公開 ~ 公開 : 會有多少人看到 の 挑戦だわ 🌈☁ ⋆｡˚
+	link= https://www.youtube.com/watch?v=YZwUAmuutwc
+date= 2024.11.05 0515 title = ✞ 天亮雜談 ꙳  ✞  聊聊天   ̖́-   剛玩完奇怪的文字遊戲, 現在在談感情    🌧 *.  ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=3h1syMuPGck
+	

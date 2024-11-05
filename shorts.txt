@@ -333,3 +333,7 @@ void shorts.song = ""
 <!--
 	2024.11 shortsList
 -->
+ title = ✞我也是有偶包的✞ 我在家裡也還是有偶包的！絕對不會做那種事情給別人聽！ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=uceOiFn4EZY
+	date= 2024.11.03 1800
+<---->
