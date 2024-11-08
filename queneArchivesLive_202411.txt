@@ -39,10 +39,24 @@ optional param
 <---->
  title = ✞ 模特兒出道 3 nicola ꙳ ✞ 我發現我適合當嗎斗 ̖́- 絕讚人氣飆升中 ↑↑↑ 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=8iQe51cHBac
-	date= 2024.11.06 1700
+	date= 2024.11.05 1700
 	content={
 		//粗時間軸
 		7:10 鬧鐘的音樂是弓箭手村的音樂(哼) (RO斐揚弓箭手村),8:44 早上開台被抓到囉,22:44 白白這次搭機回來想摸空姐的屁股,25:26 (o5:​​白白虹為啥比較喜歡坐走道)方便、也喜歡坐後排 椅子可以放下來躺,28:35 (敢),41:25 出道前決定衣服,48:44 (白噪音SE),51:20 夢到熙歌做壞事 問白白會不會被發現 然後白白幫學姊湮滅證據,51:57 白白處理好囉(想得到學姊的稱讚) 果然是要找專業的,53:43 吃醋了 他シュウホワイ了(竟然變成形容詞kusa),54:42 白白最近過敏 手手可能長疹子,55:14 明天是要去拿身心科的藥,1:06:33 酪梨話題 && (哼),1:22:22 (茶番開始)想要調成手牽手,1:23:04 (kusa),1:31:08 滿滿的和服
 	}
 	<ref/>RO斐揚弓箭手村 https://www.youtube.com/watch?v=zwM4pDzR-6g
 <--v-->
+ title = ✞ 歌と雑談 ꙳ ✞ 久違的台灣 ̖́- 我咳成智障 .. 這是水土不服還是確診 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=RBlbXZIW5PQ
+	date= 2024.11.06 1724
+	content={
+		
+	}
+<---->
+ title = ✞ Monster Hunter : Rise ꙳ ✞ 起秋龍蛋 ̖́- 雜魚臘入參上 ! 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=O60Pw1dFlUU
+	date= 2024.11.08 1500
+	content={
+		
+	}
+<---->
