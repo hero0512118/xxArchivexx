@@ -110,4 +110,9 @@ date= 2024.11.05 1700 title = ✞ 模特兒出道 3 nicola ꙳ ✞ 我發現我�
 	link= https://www.youtube.com/watch?v=8iQe51cHBac
 date= 2024.11.06 1724 title = ✞ 歌と雑談 ꙳ ✞ 久違的台灣 ̖́- 我咳成智障 .. 這是水土不服還是確診 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=RBlbXZIW5PQ
+date= 2024.11.08 1500 title = ✞ Monster Hunter : Rise ꙳ ✞ 起秋龍蛋 ̖́- 雜魚臘入參上 ! 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=O60Pw1dFlUU
+date= 2024.11.09 0230 title = ✞ Monster Hunter : Rise  ꙳ ✞ 深夜看我打   ̖́-   打~~~~打打打 歐妲RRR !  🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=zhnfkSP4eJI
+	
 	
