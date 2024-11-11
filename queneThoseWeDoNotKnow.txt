@@ -345,9 +345,17 @@
 	}
 <---->
  title = 激 ♡ 突 ♡ 戰 ♡ 士 ♡ 反正我明天播晚上 ... 🌈☁ ⋆｡˚
-	type= public -> 75 or 300
+	type= public -> 75
 	link= https://www.youtube.com/watch?v=MaDZdyHVFf8
 	date= 2024.10.19 0315
+	content={
+		
+	}
+<---->
+ title = 從限定公開 ~ 公開 : 會有多少人看到 の 挑戦だわ : その 2 🌈☁ ⋆｡˚
+	type= public -> 75
+	link= https://www.youtube.com/watch?v=GRlOTORKye8
+	date= 2024.11.07 0300
 	content={
 		
 	}

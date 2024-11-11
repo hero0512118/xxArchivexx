@@ -38,7 +38,8 @@ title = ✞ 初配信 ꙳ ✞ 天災少女工程師参上 ⌇ Square Live 白白
 	<!--有在聽的樂團-->
 	#EEE<li/> the oral cigarettes、 men with a mission 、 shishamo(現在還好)、 frederiku(現在還好)、 nomelon(最近在唱的)
 		<li/> rock in japan 2024 //https://rijfes.jp/2024/timetable/
-			<brief> 08.03
+			<brief> 08.03 shishamo看完就回家了(原本是這樣說) dish(可能會想看一下)
+						//saucy dog(還好)
 			<brief> 08.04
 			<brief> 08.10
 			<brief> 08.11
