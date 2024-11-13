@@ -36,13 +36,28 @@ title = ✞ 初配信 ꙳ ✞ 天災少女工程師参上 ⌇ Square Live 白白
 	<!--娛樂-->
 		<li/> 1:04:12 韓劇不行
 	<!--有在聽的樂團-->
-	#EEE<li/> the oral cigarettes、 men with a mission 、 shishamo(現在還好)、 frederiku(現在還好)、 nomelon(最近在唱的)
-		<li/> rock in japan 2024 //https://rijfes.jp/2024/timetable/
-			<brief> 08.03 shishamo看完就回家了(原本是這樣說) dish(可能會想看一下)
-						//saucy dog(還好)
-			<brief> 08.04
-			<brief> 08.10
-			<brief> 08.11
-			<brief> 08.12
-	}
+		<li/> the oral cigarettes、 men with a mission 、 shishamo(現在還好)、 frederiku(現在還好)、 nomelon(最近在唱的)
+		<li/> rock in japan 2024
+			<ref/>https://rijfes.jp/2024/timetable/
+			<brief/> 08.03 shishamo看完就吃飯(X)回家了(O)(原本是這樣說), dish(可能會想看一下)
+			//saucy dog(還好)
+			<brief/> 08.04 キタニタツヤ, ano, 結束バンド, SCANDAL, MY FIRST STORY(白白還有去聽台灣的演唱會), KANA-BOON, ASIAN KUNG-FU GENERATION, Vaundy
+			<brief/> 08.10 緑黄色社会, MyGO!!!!!
+			<brief/> 08.11 Creepy Nuts, SUPER BEAVER(必ず), sumika(必ず)
+			<brief/> 08.12 coldrain(誰會一大早聽coldrain 我我我), フレデリック, KEYTALK, 10-FEET, THE ORAL CIGARETTES, (キュウソネコカミ撞時間取捨), UVERworld, サカナクション, Fear, and Loathing in Las Vegas
+			//這天好頂喔 這天好讚喔 這天在逼人
+			
+		<li/> countdown 2324
+			<ref/>https://countdownjapan.jp/2324/artist/
+			<brief/> 12.28 SUPER BEAVER, MAN WITH A MISSION(有狼狼就去), 緑仙
+		<li/> countdown 2425 //原本看到名單還在思考要不要去 看到狼狼 抽 抽起來(countdown都是要抽的)
+			<ref/>https://countdownjapan.jp/2425/artist/
+			<brief/> 12.29 ano, Aqua Timez, Fear, and Loathing in Las Vegas
+			<brief/> 12.30 amazarashi
+			<brief/> 12.31 星街すいせい
+	
+	
+	
+	}		
+			
 <--e-->
