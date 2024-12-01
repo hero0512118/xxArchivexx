@@ -341,3 +341,18 @@ void shorts.song = ""
 	link= https://www.youtube.com/watch?v=aaV-hyjTLdk
 	date= 2024.11.10 1800
 <---->
+ title = ✞這還有救嗎？✞ 這個少年...已經壞掉了呢 ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=9Rgx4u4Jvas
+	date= 2024.11.17 1800
+<---->
+ title = ✞笑太早了✞ 我的周邊賣完了嗎！？真的假的！ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=B5J4v8wvcME
+	date= 2024.11.24 1800
+<---->
+<!--
+	2024.12 shortsList
+-->
+ title = ✞這還有救嗎？✞ 這個少年...已經壞掉了呢 ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=1qaRH7kCe8M
+	date= 2024.12.01 1830
+<---->

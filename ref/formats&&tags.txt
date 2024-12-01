@@ -73,7 +73,7 @@ views = planText structure
 <!---->
 creditTo= // be appeneded after any tags
 	//suffix param for content/hightLight
-firstAisatsu= //uniqueParam, single use
+firstAisatsu= //uniqueParam, single use(index, 海豹介紹)
 name=
 
 

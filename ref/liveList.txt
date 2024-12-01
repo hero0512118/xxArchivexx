@@ -29,6 +29,10 @@ date= 2024.10.04 1500 title = ✞ 白噪音 ꙳ ✞ 久違聊聊 ̖́- 近日身
 	link= https://www.youtube.com/watch?v=PB5_5U836Ok
 date= 2024.10.05 1455 title = ✞ #跑步接力歌回 ꙳ ✞ 運動力 0 ̖́- 誰會邊跑步邊唱歌邊直播阿 ? 我們 .... 🌧 *. ┊ Square Live 白白虹 
 	link= https://www.youtube.com/watch?v=rxs7vElIeS8
+/* membership
+date= 2024.10.06 ???? title = ✞ 会 ﾒﾝ 限 ꙳ ✞ 再び：EVERYBODY 12 Switch ̖́- 人家第二次玩 /// 聽說是通靈遊戲？ 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=pedEtIRZ4iU
+*/
 date= 2024.10.07 1500 title = ✞ 咒 ꙳ ✞ 月曜日恐遊最適合 ̖́- 才下午而已... 怕的是小狗... 白白虹 : 汪汪 ! 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=yIvvFpqt-3c
 date= 2024.10.07 1640 title = ✞ 歌と雑談だよ ꙳ ✞ 星期一好憂鬱 ̖́- 這周開始是 勤奮白白虹 🌧 *. ┊ Square Live 白白虹
@@ -122,4 +126,21 @@ date= 2024.11.10 1630 title = ✞ 嘴巴打不開歌枠 ꙳ ✞  臣妾 ... 嘴�
 	link= https://www.youtube.com/watch?v=xOJyUuNWOy0
 date= 2024.11.11 0500 title = ✞ 模特兒出道 3 nicola ꙳ ✞  媽斗都早起晨跑   ̖́-    光棍節要交男朋友 !!!!  🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=-rwvWWjSFPk
+date= 2024.11.15 1500 title = ✞ 歌と雑談だよ ꙳ ✞ 趕回家了... ̖́- 小開一下ˇ 我是小開開 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=lAxSmDHNvFs
+date= 2024.11.18 1500 title = ✞ 歌枠だよ ꙳ ✞ 小唱唱一下 ̖́- 今天是小唱唱的 fu ♡ 咳咳獸好像暫離了 ! 趁現在 ! 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=YnBotJGw_2U
+date= 2024.11.20 1500 title = ✞ 歌枠だよ ꙳ ✞ 無情の唱歌白色彩虹 ̖́- 今天身體好一點惹 !! 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=cubJ_KHxIj4
+/* membership
+date= 2024.11.21 1500 title = ✞ 會限 : 萬聖節拍立得 ꙳ ✞ 遲了快一個月啦 ̖́- 給虹嗨社畜們抽獎福利憐 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=xB4ifcO1VJI
+date= 2024.11.25 1500 title =  ✞ #頻道會員感謝祭 | 歌枠 ꙳ ✞ 感恩 o5 感恩蛤 ̖́- 歡迎點我唱過的歌 🥼 *. ┊ Square Live 白白虹 
+	link= https://www.youtube.com/watch?v=GSqZu5ey1Sc
+*/
+<!--
+	2024.12 liveList
+-->
+	
+	
 	
