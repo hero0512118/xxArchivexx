@@ -1,0 +1,68 @@
+ /* format
+ title = 
+	link= 
+	date= 2024.12.
+	content={
+		
+	}
+<---->
+<--v--> stands for complete
+<--e--> stands for editing/some details yet orgranized
+<--d--> stands for live is unarchived
+└
+optional param
+	creditTo= //suffix param for content/hightLight
+		 creditTo= @xxSguKunxx
+		 creditTo= @sakuranoshi2uku
+	highLight
+	song
+ */
+ title = ✞ 雑談だよ ꙳ ✞ 一下下 ̖́- 好久不見 ... 12 月了 ! 一周年要到了 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=OhXlkhidqm8
+	date= 2024.12.01 0055
+	content={
+		
+	}
+<---->
+ title = ✞ 雑談だよ ꙳ ✞ 來看 Tag 們 ̖́- 終於 ... 白白虹終於要面對了 ... 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=ee1qDbl16H4
+	date= 2024.12.02 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 雑談だよ ꙳ ✞ 來看 Tag 們 その➁ ̖́- 終於 ... 白白虹終於要面對了 ... 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=2k5QZqkR1JI
+	date= 2024.12.03 1630
+	content={
+		
+	}
+<---->
+ title = ✞ 雑談です. ꙳ ✞ 看 tag その③ ̖́- 今天是 arrrt 和 live 標籤 !! 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=rM7uvpFIjO0
+	date= 2024.12.05 0000
+	content={
+		
+	}
+<---->
+ title = ✞ 雑談です. ꙳ ✞ 邊聊邊看看周年小禮物們 ♡ ̖́- 今天也是標籤標籤的一天 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=cuKG4dP8AKU
+	date= 2024.12.09 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 瑟拉斯丟合體 ꙳ ✞ 1 周年惹 ̖́- 合體聊聊天 la ♡ 好久沒有 te te 了 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=10a4GM4noAk
+	date= 2024.12.09 2005
+	content={
+		
+	}
+<---->
+ title = ✞ 寶可夢 XY ( 3DS ) ꙳ ✞ Y 頭燦笑 的 Y 版 ̖́- 白白虹數12 最愛的寶可夢系列作來辣 *. ┊ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=1-X_hYTLTVo
+	date= 2024.12.10 1500
+	content={
+		
+	}
+<---->

@@ -402,3 +402,19 @@
 		}creditTo= @xxShuKunxx
 	}
 <--v-->
+ title = ✞ 從零開始的obs設定 ꙳ ✞ 崩潰台 ̖́- 應該沒有什麼好學的東西 ... 🥼 *. ┊ Square Live 白白虹
+	type= 75
+	link= https://www.youtube.com/watch?v=G70wRaq2uVk
+	date= 2024.12.02 1750
+	content={
+		
+	}
+<---->
+ title = ✞ 工程部限定 : 頭貼還債台 ꙳ ✞ 年底近了... ̖́- 今天應該就很認真的畫圖 nya 🌧 *. ┊ Square Live 白白虹
+	type= 300
+	link= https://www.youtube.com/watch?v=9CGlPpeauYg
+	date= 2024.12.12 1500
+	content={
+		
+	}
+<---->
