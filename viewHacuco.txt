@@ -1,3 +1,6 @@
+	<!--IMBT-->
+		<li/>2024.01.10 INTJ-A 建築師 <ref/>https://www.youtube.com/watch?v=efdWUUsxxi8
+
 title = ✞ 初配信 ꙳ ✞ 天災少女工程師参上 ⌇ Square Live 白白虹 xxhacucoxx
 	link = https://www.youtube.com/watch?v=IG89vrnc9kE
 	date = 2023.12.06 2000
@@ -55,9 +58,6 @@ title = ✞ 初配信 ꙳ ✞ 天災少女工程師参上 ⌇ Square Live 白白
 			<brief/> 12.29 ano, Aqua Timez, Fear, and Loathing in Las Vegas
 			<brief/> 12.30 amazarashi
 			<brief/> 12.31 星街すいせい
-	
-	
-	
 	}		
 			
 <--e-->

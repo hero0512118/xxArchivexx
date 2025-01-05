@@ -53,8 +53,26 @@ optional param
 	date= 2024.11.06 1724
 	content={
 		
+		song={
+			.⊹ 曲目表｜セトリ sᴏɴɢʟɪsᴛ ⌒♡｡,0:00:00 START,0:31:20 01. 怪獣の花唄 / Vaundy,0:42:21 02. 花占い / Vaundy ,0:48:55 03. 離歌 / 信樂團,0:56:32 04. スマイルあげない / ano,1:05:27 05. どうにかなっちゃいそう！ / NOMELON NOLEMON,1:10:27 06. 線香金魚 / NOMELON NOLEMON,1:16:30 07. night draw / NOMELON NOLEMON,1:23:58 08. ハイド・アンド・シーク / NOMELON NOLEMON,1:29:00 09. 5150 / THE ORAL CIGARETTES,1:38:07 10. DAYBREAK'S BELL / 彩虹樂團,1:43:54 11. I LOVE... / Official鬍子男dism,1:56:01 12. 春日影 / MyGO!!!!!,2:02:58 13. 115万キロのフィルム / Official鬍子男dism
+			.⊹ 曲目表｜セトリ sᴏɴɢʟɪsᴛ ⌒♡｡
+			0:00:00 START
+			0:31:20 01. 怪獣の花唄 / Vaundy
+			0:42:21 02. 花占い / Vaundy 
+			0:48:55 03. 離歌 / 信樂團
+			0:56:32 04. スマイルあげない / ano
+			1:05:27 05. どうにかなっちゃいそう！ / NOMELON NOLEMON
+			1:10:27 06. 線香金魚 / NOMELON NOLEMON
+			1:16:30 07. night draw / NOMELON NOLEMON
+			1:23:58 08. ハイド・アンド・シーク / NOMELON NOLEMON
+			1:29:00 09. 5150 / THE ORAL CIGARETTES
+			1:38:07 10. DAYBREAK'S BELL / 彩虹樂團
+			1:43:54 11. I LOVE... / Official鬍子男dism
+			1:56:01 12. 春日影 / MyGO!!!!!
+			2:02:58 13. 115万キロのフィルム / Official鬍子男dism
+		}creditTo= @xxSguKunxx
 	}
-<---->
+<--e-->
  title.old = 從限定公開 ~ 公開 : 會有多少人看到 の 挑戦だわ : その 3 🌈☁ ⋆｡˚
  title = ✞ Monster Hunter : Rise ꙳ ✞ 起秋龍蛋 ̖́- 雜魚臘入參上 ! 🌧 *. ┊ Square Live 白白虹
 	link= https://www.youtube.com/watch?v=O60Pw1dFlUU

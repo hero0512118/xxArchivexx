@@ -1,0 +1,47 @@
+ /* format
+ title = 
+	link= 
+	date= 2025.01.
+	content={
+		
+	}
+<---->
+<--v--> stands for complete
+<--e--> stands for editing/some details yet orgranized
+<--d--> stands for live is unarchived
+└
+optional param
+	creditTo= //suffix param for content/hightLight
+		 creditTo= @xxSguKunxx
+		 creditTo= @sakuranoshi2uku
+	highLight
+	song
+ */
+ title = ✞ 新年扒蕊 ꙳ ✞ 動手囉 ̖́- 竟敢打女人 ? 我也要 .... #薔薇與椿 *. ┊ Square Live 白白虹 xxhacucoxx 
+	link= https://www.youtube.com/watch?v=PURQUChLzvM
+	date= 2025.01.01 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 深夜怕白 ꙳ ✞ 天月麻將: 爬段位 ̖́- 愛我就別打飛我、好人一生平安 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=OFdJVrG0nSg
+	date= 2025.01.03 0345
+	content={
+		
+	}
+<---->
+ title = ✞ hacuco 姐妹會 ꙳ ✞ 渣男渣女退散！ ̖́- 馬的騙我感情 ... feat. ‪@Iluyee161‬ ‪@MiraSaiko‬ *. ┊ Square Live 白白虹 xxhacucoxx 
+	link= https://www.youtube.com/watch?v=UOKigaCU42g
+	date= 2025.01.03 2200
+	content={
+		
+	}
+<---->
+ title = ✞ 歌枠だよ ꙳ ✞ 唱百比想唱的♡　 ̖́- 今年已經過 4 天了欸 ... 太快了吧 ... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=bSDSEeVQDr0
+	date= 2025.01.04 1530
+	content={
+		
+	}
+<---->

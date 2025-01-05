@@ -141,6 +141,62 @@ date= 2024.11.25 1500 title =  ✞ #頻道會員感謝祭 | 歌枠 ꙳ ✞ 感�
 <!--
 	2024.12 liveList
 -->
+date= 2024.12.01 0055 title = ✞ 雑談だよ ꙳ ✞ 一下下 ̖́- 好久不見 ... 12 月了 ! 一周年要到了 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=OhXlkhidqm8
+date= 2024.12.02 1500 title = ✞ 雑談だよ ꙳ ✞ 來看 Tag 們 ̖́- 終於 ... 白白虹終於要面對了 ... 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=ee1qDbl16H4
+/* membership
+date= 2024.12.02 1750 title = ✞ 從零開始的obs設定 ꙳ ✞ 崩潰台 ̖́- 應該沒有什麼好學的東西 ... 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=G70wRaq2uVk
+*/
+date= 2024.12.03 1630 title = ✞ 雑談だよ ꙳ ✞ 來看 Tag 們 その➁ ̖́- 終於 ... 白白虹終於要面對了 ... 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=2k5QZqkR1JI
+date= 2024.12.05 0000 title = ✞ 雑談です. ꙳ ✞ 看 tag その③ ̖́- 今天是 arrrt 和 live 標籤 !! 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=rM7uvpFIjO0
+date= 2024.12.09 1500 title = ✞ 雑談です. ꙳ ✞ 邊聊邊看看周年小禮物們 ♡ ̖́- 今天也是標籤標籤的一天 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=cuKG4dP8AKU
+date= 2024.12.09 2005 title = ✞ 瑟拉斯丟合體 ꙳ ✞ 1 周年惹 ̖́- 合體聊聊天 la ♡ 好久沒有 te te 了 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=10a4GM4noAk
+date= 2024.12.10 1500 title = ✞ 寶可夢 XY ( 3DS ) ꙳ ✞ Y 頭燦笑 的 Y 版 ̖́- 白白虹數12 最愛的寶可夢系列作來辣 *. ┊ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=1-X_hYTLTVo
+/* membership
+date= 2024.12.12 1500 title = ✞ 工程部限定 : 頭貼還債台 ꙳ ✞ 年底近了... ̖́- 今天應該就很認真的畫圖 nya 🌧 *. ┊ Square Live 白白虹
+	link= (part1) https://www.youtube.com/watch?v=9CGlPpeauYg
+	link= (part2) https://www.youtube.com/watch?v=RwG2MOmzWIM
+*/
+date= 2024.12.18 1500 title = ✞ 歌と雑談だよ ꙳ ✞ 唱歌啦 ̖́- うたをうたうのだよ！初見大歓迎 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=sj-dUgsllFI
+date= 2024.12.19 1500 title = ✞ 寶可夢 XY ( 3DS ) ꙳ ✞ 歪歪 # 02 ̖́- 聽說綠毛蟲 99 等攜帶龍鱗就能進化成烈空座 *. ┊ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=foRu4wu2_UA
+/* membership
+date= 2024.12.20 1500 title = ✞ 虹嗨限定 : 頭貼還債台 ꙳ ✞  年底更近了...    ̖́-   睡醒 ! 認真的畫圖 nya   🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=RwG2MOmzWIM
+*/
+date= 2024.12.21 1500 title = ✞ 一周年感謝歌枠 ꙳ ✞ 謝謝尼悶遇到了我 ̖́- 用數量取勝的歌回 !! 至少 25 首辣 !! ♡ 🥼 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=m_Vl-_0HuaQ
+date= 2024.12.24 1500 title = ✞ 色違列空座 ꙳ ✞ o5 幫我打打 ! ̖́- 聖誕節特別抓蟲活動だよ *. ┊ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=aHrVfUzer6s
+date= 2024.12.25 1500 title = ✞ 歌と雑談です. ꙳ ✞ 叒是聖誕節 ̖́- 好想睡 ... 好想當蟲 ... 懶懶聊一下 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=Knhtyo9MLCA
+date= 2024.12.26 1530 title = ✞ 寶可夢 XY ( 3DS ) ꙳ ✞ 歪 # 03 ̖́- 我練了特攻 ! 我喵咪會變特攻喵喵嗎 ! 努力值超難練... *. ┊ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=xyl3jkUeQ7Y
+date= 2024.12.27 1500 title = ✞ 天月麻雀 ꙳ ✞ 什麼麻都給我來一點 ̖́- 精美畫風 x 黃金聲優陣容 ！尼不能錯過的優質好麻雀 *. ┊ Square Live 白白虹 xxhacucoxx
+	link= https://www.youtube.com/watch?v=5awYg48J2kU
+date= 2024.12.28 1500 title = ✞ 歌枠だお ꙳ ✞ 媽媽, 這裡有偶像 ̖́- 看當天的心情決定歌單 yo 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=nwUgzeGw4-8
+date= 2024.12.30 1500 title = ✞ 白噪音 ꙳ ✞ 2024 最後的 ̖́- 一年咻不見了 , 白白虹 ... 來不及 .... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=1p3Ty8hJS0w
+<!--
+	2025.01 liveList
+-->
+date= 2025.01.01 1500 title = ✞ 新年扒蕊 ꙳ ✞ 動手囉 ̖́- 竟敢打女人 ? 我也要 .... #薔薇與椿 *. ┊ Square Live 白白虹 xxhacucoxx 
+	link= https://www.youtube.com/watch?v=PURQUChLzvM
+date= 2025.01.03 0345 title = ✞ 深夜怕白 ꙳ ✞ 天月麻將: 爬段位 ̖́- 愛我就別打飛我、好人一生平安 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=OFdJVrG0nSg
+date= 2025.01.03 2200 title = ✞ hacuco 姐妹會 ꙳ ✞ 渣男渣女退散！ ̖́- 馬的騙我感情 ... feat. ‪@Iluyee161‬ ‪@MiraSaiko‬ *. ┊ Square Live 白白虹 xxhacucoxx 
+	link= https://www.youtube.com/watch?v=UOKigaCU42g
+date= 2025.01.04 1530 title = ✞ 歌枠だよ ꙳ ✞ 唱百比想唱的♡　 ̖́- 今年已經過 4 天了欸 ... 太快了吧 ... 🌧 *. ┊ Square Live 白白虹
+	link= https://www.youtube.com/watch?v=bSDSEeVQDr0
 	
 	
 	

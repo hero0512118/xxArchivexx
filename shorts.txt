@@ -1,10 +1,10 @@
  /* format
  title = 
 	link= 
-	date= 2024.1 1830
+	date= 2025.0 1800
 <---->
 <!--
-	2024.1 shortsList
+	2025.0 shortsList
 -->
 */
 void shorts.song = ""
@@ -359,4 +359,23 @@ void shorts.song = ""
  title = ✞跑步白白✞ 胸會晃啦！？才三點而已！貼心的幫你們擋住！ ⌇Square Live 白白虹
 	link= https://www.youtube.com/watch?v=s7qSrDryKlQ
 	date= 2024.12.08 1800
+<---->
+ title = ✞環保秘訣✞ 金針菇的無限循環！綠色地球由我們守護（Ｘ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=IAp8o5SIzuQ
+	date= 2024.12.16 1800
+<---->
+ title = ✞日本鄰居✞ 聽懂潛台詞了！日本鄰居真的好可怕！？ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=CT_b0LyjBJA
+	date= 2024.12.22 1830
+<---->
+ title = ✞你怎麼就這麼走了✞ 李春魚你怎麼可以走了！這樣我的薪水怎麼辦！？ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=epx1jXR626Q
+	date= 2024.12.29 1800
+<---->
+<!--
+	2025.01 shortsList
+-->
+ title = ✞一句話噁心✞ 在飛機上覺醒了？看到空姐就想...！？ ⌇Square Live 白白虹
+	link= https://www.youtube.com/watch?v=-EXFFmkouW0
+	date= 2025.01.05 1800
 <---->

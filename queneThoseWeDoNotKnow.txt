@@ -25,13 +25,14 @@
 	}
 <---->
   title = ✞ 突發꙳ ✞ ？？？？？？？ ⌇ Square Live 白白虹 xxhacucoxx
-	type= 75
-	link= ✞ 突發꙳ ✞ ？？？？？？？ ⌇ Square Live 白白虹 xxhacucoxx
+	type= 300
+	link= https://www.youtube.com/watch?v=efdWUUsxxi8
 	date= 2024.01.10 ????
 	content={
+		01:10:50 IMBT 測驗結果- INTJ-A 建築師
 		
 	}
-<---->
+<--e-->
  title = ✞ 會限突發꙳ ✞ 沒有理智 只有弱智的台 ⌇ Square Live 白白虹 xxhacucoxx
 	type= 75
 	link= https://www.youtube.com/watch?v=csFB5_Rjlqs
@@ -412,8 +413,17 @@
 <---->
  title = ✞ 工程部限定 : 頭貼還債台 ꙳ ✞ 年底近了... ̖́- 今天應該就很認真的畫圖 nya 🌧 *. ┊ Square Live 白白虹
 	type= 300
-	link= https://www.youtube.com/watch?v=9CGlPpeauYg
+	link= (part1) https://www.youtube.com/watch?v=9CGlPpeauYg
+	link= (part2) https://www.youtube.com/watch?v=RwG2MOmzWIM
 	date= 2024.12.12 1500
+	content={
+		
+	}
+<---->
+ title = ✞ 虹嗨限定 : 頭貼還債台 ꙳ ✞  年底更近了...    ̖́-   睡醒 ! 認真的畫圖 nya   🌧 *. ┊ Square Live 白白虹
+	type= 75
+	link= https://www.youtube.com/watch?v=RwG2MOmzWIM
+	date= 2024.12.20 1500
 	content={
 		
 	}
